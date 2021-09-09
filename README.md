@@ -11,7 +11,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 ###### Alternative
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics#courses) | UC San Diego | 6-8 months | 2-5 hours/week | once a month | none
+[Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics#courses) | UC San Diego | 6-8 months | 2-5 hours/week | once a month | Computer Science: Algorithms, Theory, and Machines
 
 ## Programming
 
