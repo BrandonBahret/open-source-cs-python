@@ -27,11 +27,11 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
+[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | self-paced | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
 [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | MIT | 12 weeks | 6-10 hours/week | self-paced | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
 [Differential Equations in Action](https://www.udacity.com/course/differential-equations-in-action--cs222) | Udacity | 8 weeks | 6-10 hours/week | self-paced | [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation)
 [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | MIT | 15 weeks | 6-10 hours/week | self-paced | Calculus 1A: Differentiation
 [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0)| MIT | 8 weeks | 6-10 hours/week | self-paced | Calculus 1B: Integration
-[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | self-paced | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
 [Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python) | Udacity | 12 weeks | 5-7 hours/week | self-paced | none
 [Intro to Statistics ](https://imp.i115008.net/intro-to-statistics) | Udacity | 8 weeks | 5-7 hours/week | self-paced | none
 [Probability - Uncertainty and Data](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data) | MIT | 16 weeks | 10-14 hours/week | instructor-paced | single-variable & multivariable calculus
