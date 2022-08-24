@@ -2,11 +2,16 @@
 
 This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
 
+## Entrepreneurship 
+Courses | School | Duration | Effort | Frequency | Prerequisites
+:-- | :--: | :--: | :--: | :--: | :--:
+[Legal Aspects of Entrepreneurship Specialization](https://www.coursera.org/specializations/legal-aspects-of-entrepreneurship) | University of Maryland | 3 months | 2 hours/week | self-paced | none
+
 ## Computer Science Basics
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
+[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | self-paced | none
 
 ## Programming
 
